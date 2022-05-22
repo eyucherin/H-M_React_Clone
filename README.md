@@ -1,3 +1,14 @@
+# Check out my project here 
+- reacthandmclone.netlify.app
+
+# What I learned 
+ - React Paging using Router Library 
+ - Router Hooks 
+ - HTTP verbs: GET/POST/PUT/PATCH/DELETE
+ - Getting url data including query
+ - Creating my own database using npm Json-server 
+ - Using React Bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
