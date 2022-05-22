@@ -6,6 +6,7 @@
 
 # What I learned 
  - React Paging using Router Library 
+ - URL design patterns with Restful routes
  - Router Hooks 
  - HTTP verbs: GET/POST/PUT/PATCH/DELETE
  - Getting url data including query
