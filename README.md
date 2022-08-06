@@ -1,8 +1,9 @@
-# Check out my project here 
-- popcorn-azure.vercel.app
 <p align="center">
 <img width="1257" alt="Screen Shot 2022-08-07 at 5 27 41 AM" src="https://user-images.githubusercontent.com/66363530/183265306-c8d11401-3a57-4a02-9ff1-13a3ed221384.png">
 </p>
+
+# Check out my project here 
+- popcorn-azure.vercel.app
 
 # Project Description: 
 - This project contains two pages 
