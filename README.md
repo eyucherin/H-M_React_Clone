@@ -1,10 +1,17 @@
+# Project Description: 
+- This project contains two pages 
+ 1. Netflix style movie layout where you can view the information by hovering through the cards or clicking it the learn more. The cards with slip and show a more detailed description 
+ 2. A Random Movie picker for people who have a hard time deciding which movie to watch, or those who don't know what to watch. It randomly picks movies from the database and gives suggestions
+
 # Check out my project here 
-- reacthandmclone.netlify.app
+- popcorn-azure.vercel.app
 <p align="center">
 <img src="https://user-images.githubusercontent.com/66363530/169691312-553ac51c-5898-4f85-baf7-f94bf6d86cc4.png" width="850" height="370" border="10"/>
 </p>
 
 # What I learned 
+ - Using Spinner when fetching
+ - The Movie Database API 
  - React Paging using Router Library 
  - URL design patterns with Restful routes
  - Router Hooks 
