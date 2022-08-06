@@ -6,8 +6,9 @@
 # Check out my project here 
 - popcorn-azure.vercel.app
 <p align="center">
-<img src="https://user-images.githubusercontent.com/66363530/169691312-553ac51c-5898-4f85-baf7-f94bf6d86cc4.png](https://user-images.githubusercontent.com/66363530/183265282-48747585-df34-475e-8281-49925762eaa4.png)" width="850" height="370" border="10"/>
+<img width="1257" alt="Screen Shot 2022-08-07 at 5 27 41 AM" src="https://user-images.githubusercontent.com/66363530/183265306-c8d11401-3a57-4a02-9ff1-13a3ed221384.png">
 </p>
+
 
 
 # What I learned 
