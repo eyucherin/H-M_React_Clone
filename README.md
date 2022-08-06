@@ -1,15 +1,13 @@
-# Project Description: 
-- This project contains two pages 
- 1. Netflix style movie layout where you can view the information by hovering through the cards or clicking it the learn more. The cards with slip and show a more detailed description 
- 2. A Random Movie picker for people who have a hard time deciding which movie to watch, or those who don't know what to watch. It randomly picks movies from the database and gives suggestions
-
 # Check out my project here 
 - popcorn-azure.vercel.app
 <p align="center">
 <img width="1257" alt="Screen Shot 2022-08-07 at 5 27 41 AM" src="https://user-images.githubusercontent.com/66363530/183265306-c8d11401-3a57-4a02-9ff1-13a3ed221384.png">
 </p>
 
-
+# Project Description: 
+- This project contains two pages 
+ 1. Netflix style movie layout where you can view the information by hovering through the cards or clicking it the learn more. The cards with slip and show a more detailed description 
+ 2. A Random Movie picker for people who have a hard time deciding which movie to watch, or those who don't know what to watch. It randomly picks movies from the database and gives suggestions
 
 # What I learned 
  - Using Spinner when fetching
