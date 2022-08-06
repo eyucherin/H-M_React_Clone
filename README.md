@@ -6,8 +6,9 @@
 # Check out my project here 
 - popcorn-azure.vercel.app
 <p align="center">
-<img src="https://user-images.githubusercontent.com/66363530/169691312-553ac51c-5898-4f85-baf7-f94bf6d86cc4.png" width="850" height="370" border="10"/>
+<img src="https://user-images.githubusercontent.com/66363530/169691312-553ac51c-5898-4f85-baf7-f94bf6d86cc4.png](https://user-images.githubusercontent.com/66363530/183265282-48747585-df34-475e-8281-49925762eaa4.png)" width="850" height="370" border="10"/>
 </p>
+
 
 # What I learned 
  - Using Spinner when fetching
